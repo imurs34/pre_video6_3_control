@@ -1,0 +1,86 @@
+[
+  {
+    "start": 0, 
+    "end": 30.04, 
+    "ocr_result": [], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 30.04, 
+    "end": 50.04, 
+    "ocr_result": [], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 50.04, 
+    "end": 110.04, 
+    "ocr_result": [], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 110.04, 
+    "end": 130.04, 
+    "ocr_result": [], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 130.04, 
+    "end": 150.04, 
+    "ocr_result": [], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 150.04, 
+    "end": 170.04, 
+    "ocr_result": [], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 170.04, 
+    "end": 190.04, 
+    "ocr_result": [], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 190.04, 
+    "end": 310.04, 
+    "ocr_result": [], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 310.04, 
+    "end": 330.04, 
+    "ocr_result": [], 
+    "shot_id": 8
+  }, 
+  {
+    "start": 330.04, 
+    "end": 350.04, 
+    "ocr_result": [], 
+    "shot_id": 9
+  }, 
+  {
+    "start": 350.04, 
+    "end": 370.04, 
+    "ocr_result": [], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 370.04, 
+    "end": 390.04, 
+    "ocr_result": [], 
+    "shot_id": 11
+  }, 
+  {
+    "start": 390.04, 
+    "end": 410.04, 
+    "ocr_result": [], 
+    "shot_id": 12
+  }, 
+  {
+    "start": 410.04, 
+    "end": 0.0, 
+    "ocr_result": [], 
+    "shot_id": 13
+  }
+]
